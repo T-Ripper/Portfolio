@@ -30,7 +30,7 @@ export const ProjectList = [
     {
         name: 'Robo app',
         image: Robo,
-        Taughts: `This is my first react-app , I didnt deploy this app until recently when I created my portfolio app
+        Taughts: `This is my first react-app , I didnt deploy this app until recently when I created my portfolio app.
         I used the Json api to get the names and also used a class component here`,
         skills: 'React ',
         github: 'https://github.com/T-Ripper/Robotics'

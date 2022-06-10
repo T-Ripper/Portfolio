@@ -9,7 +9,7 @@ import 'react-vertical-timeline-component/style.min.css'
 const Experience = () => {
   return (
     <div className="experience">
-      <VerticalTimeline lineColor="#3e497a">
+      <VerticalTimeline lineColor="#5e2159">
         <VerticalTimelineElement
           className="vertical-timeline-element--education"
            date="2013 - 2016"

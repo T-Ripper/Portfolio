@@ -11,6 +11,7 @@ const ProjectDisplay = () => {
     <div className='project'>
     <h1> {project.name} </h1>
     <img src= {project.image} alt='pictures' />
+    <p className='taughts'> {project.Taughts} </p>
     <p>  <b> skills : </b> {project.skills} 
     </p>
  <a href={project.github} >
