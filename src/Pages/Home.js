@@ -19,7 +19,7 @@ const Home = () => {
         <ol className="list">
           <li className="item">
             <h2>Front-End</h2>
-            <span>Html, Css, NPM,Reactjs, Redux</span>
+            <span>Html, Css, Javascript,Reactjs, Redux, Wordpress</span>
           </li>
           <li className="item">
             <h2>Back-End</h2>
